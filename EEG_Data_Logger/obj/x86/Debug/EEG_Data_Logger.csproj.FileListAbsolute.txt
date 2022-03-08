@@ -1,0 +1,7 @@
+C:\community-sdk-master\bin\win32\EEGLogger.exe
+C:\community-sdk-master\bin\win32\EEGLogger.pdb
+C:\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEG_Data_Logger.csprojResolveAssemblyReference.cache
+C:\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEG_Data_Logger.csproj.CoreCompileInputs.cache
+C:\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEG_Data_Logger.csproj.CopyComplete
+C:\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.exe
+C:\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.pdb

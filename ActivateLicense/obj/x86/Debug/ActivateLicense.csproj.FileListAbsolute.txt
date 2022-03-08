@@ -1,0 +1,7 @@
+C:\community-sdk-master\bin\win32\ActivateLicense.exe
+C:\community-sdk-master\bin\win32\ActivateLicense.pdb
+C:\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x86\Debug\ActivateLicense.csprojResolveAssemblyReference.cache
+C:\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x86\Debug\ActivateLicense.csproj.CoreCompileInputs.cache
+C:\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x86\Debug\ActivateLicense.csproj.CopyComplete
+C:\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x86\Debug\ActivateLicense.exe
+C:\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x86\Debug\ActivateLicense.pdb
